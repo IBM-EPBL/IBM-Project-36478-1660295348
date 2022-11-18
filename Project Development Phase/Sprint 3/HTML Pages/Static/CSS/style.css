@@ -1,0 +1,68 @@
+.body{
+    background-image: url("https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1254/https://www.analyticsinsight.net/wp-content/uploads/2020/07/Artificial-IntelligenceAI.jpeg");
+    background-repeat: initial;
+    background-size: cover;
+    min-height: 300px;
+}
+.nav-link{
+    margin-right: 50px;
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 700;
+    text-align: right;
+}
+.nav-item:hover{
+    text-shadow: 2px 2px 2px gray;
+}
+
+.brand{
+    margin-left: 50px;
+}
+.form{
+    margin-top:70px;
+    margin-left: 100px;
+    width: 400px;
+}
+.title{
+    color: white;
+    font-size: 40px;
+    color: rgb(122, 145, 23);
+    margin-bottom: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.image{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+    font-size: large;
+    font-weight: 500;
+    color: rgb(51, 103, 245);
+}
+.submit{
+    margin-left: 140px;
+}
+.button{
+    margin-top: 50px;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 150px;
+    overflow: hidden;
+    text-align: left;
+    font-weight: 900;
+    color:white;
+}
+.text-dark{
+    font-display: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:blue;
+}
+
+.writting{
+    background-image: url("https://www.simplelegal.com/wp-content/uploads/2020/12/the-ai-hype.png");
+    
+    background-size: cover;
+    min-height: 300px;
+}
